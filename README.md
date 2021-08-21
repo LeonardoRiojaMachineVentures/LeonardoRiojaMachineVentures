@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeonardoRiojaMachineVentures, MachineVentures is my dream about tech-ridden future
+- 👋 Hi, I’m @LeonardoRiojaMachineVentures, MachineVentures is my dream about a great tech-ridden future
 - 👀 I’m interested in theoretical physics
 - 🌱 I’m currently learning formal proofs
 - 💞️ I’m looking to collaborate on any math-sciency projects

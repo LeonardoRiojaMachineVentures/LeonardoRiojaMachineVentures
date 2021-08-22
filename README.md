@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeonardoRiojaMachineVentures, MachineVentures is my dream about a great tech-ridden future
-- 👀 I studied Theoretical Physics
+- I studied Theoretical Physics
 - 🌱 I’m currently learning formal proofs
 - 💞️ I’m looking to collaborate on any math-sciency projects
 - 📫 reach me @ leonardo.rioja.machine@gmail.com
